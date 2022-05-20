@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Mag_Test", "Mag_Test.cproj", "{9350D968-77C7-4515-88C0-02D033EF63EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9350D968-77C7-4515-88C0-02D033EF63EE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9350D968-77C7-4515-88C0-02D033EF63EE}.Debug|AVR.Build.0 = Debug|AVR
+		{9350D968-77C7-4515-88C0-02D033EF63EE}.Release|AVR.ActiveCfg = Release|AVR
+		{9350D968-77C7-4515-88C0-02D033EF63EE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
